@@ -2,8 +2,8 @@
 
 ```{raw} html
 <div class="video-divert">
-<a href="https://youtu.be/xW2Ya205nvo?si=5hCfmsxUb859lb2E" target="blank"><img class="shadow-image" src="https://i.ytimg.com/vi/xW2Ya205nvo/hqdefault.jpg"><div class="overlay"><p>Click here to learn more on youtube</p></div></a>
 <p>Something about this section has a relevant youtube video that may be of interest. Click the image to go there</p>
+<a href="https://youtu.be/xW2Ya205nvo?si=5hCfmsxUb859lb2E" target="blank"><img class="shadow-image" src="https://i.ytimg.com/vi/xW2Ya205nvo/hqdefault.jpg"><div class="overlay"><p>Click to visit youtube</p></div></a>
 </div>
 ```
 

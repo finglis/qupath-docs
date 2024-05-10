@@ -2,7 +2,7 @@
 
 ```{raw} html
 <div class="video-divert">
-<p>Something about this section has a relevant youtube video that may be of interest. Click the image to go there</p>
+<p>Some short and snappy text</p>
 <a href="https://youtu.be/xW2Ya205nvo?si=5hCfmsxUb859lb2E" target="blank"><img class="shadow-image" src="https://i.ytimg.com/vi/xW2Ya205nvo/hqdefault.jpg"><div class="overlay"><p>Click to visit youtube</p></div></a>
 </div>
 ```
